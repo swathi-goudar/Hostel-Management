@@ -32,7 +32,7 @@ public class StudentTest {
 	           }
 		
 		
-		assertEquals(true,h.verifyName("tekjhgfdsst"));
+		assertEquals(false,h.verifyName("tekjhgfdsst"));
 		
 		
 		
